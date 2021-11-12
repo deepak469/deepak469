@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Deepak Marneni!
 ###### *Full Stack Professional*
 
-I am a Full Stack developer with industry experience building websites and web applications. I specialize in Java, JavaScript, HTML5, CSS3 and have professional experience working with React and Angular.
+I am a Full Stack developer with industry experience building websites and web applications. I specialize in Java, JavaScript, HTML5, CSS3, have professional experience working with Angular, Spring boot, Micro services, Kuberntes and Openshift.
 
 I am passionate about building scalable software, creating effective solutions, and learning every day to grow professionally in the IT field.
 
@@ -40,11 +40,13 @@ I am passionate about building scalable software, creating effective solutions, 
 
 <br />
 
+<!--
 ### My GitHub stats
 
 <a href="https://balajiashokkumar.netlify.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak469&layout=compact" />
 </a>
+-->
 
 [linkedin]: https://www.linkedin.com/in/deepak-marneni-b505206a/
 
